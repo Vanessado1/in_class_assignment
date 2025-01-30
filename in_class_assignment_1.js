@@ -30,3 +30,10 @@ while(num <= 10){
     console.log(num);
     num += 2;
 }
+
+// Task 5
+function calculateSquare(amount) {
+    return amount * amount;
+    
+}
+console.log(calculateSquare(4));// Output 16
