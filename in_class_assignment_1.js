@@ -24,4 +24,9 @@ if (score >= 60) {
 for (let index = 10; index >= 1; index--) {
     console.log(index);
 }
-
+// Task 4 
+let num =2;
+while(num <= 10){
+    console.log(num);
+    num += 2;
+}
